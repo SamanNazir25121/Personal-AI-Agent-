@@ -1,5 +1,4 @@
 # Personal-AI-Agent
-# Personal AI Agent
 
 > An intelligent AI assistant built with **n8n** and powered by the **Groq API**, capable of managing emails, calendars, weather updates, and automating everyday productivity tasks through natural language conversations.
 
